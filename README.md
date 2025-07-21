@@ -3,7 +3,7 @@ Um projeto de mural para os participantes do curso de Git e GtHub contribuirem a
 
 ## Veja o mural
 
-[https://ilivanilton.github.io/avaliacao-modulo-2](https://ilivanilton.github.io/avaliacao-modulo-2/)
+[https://ilivanilton.github.io/avaliacao-modulo-2](https://ilivanilton.github.io/git-github-bootcamp/)
 
 ## Sobre Pull Requests
 
